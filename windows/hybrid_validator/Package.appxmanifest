@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="0c197fc8-54c8-4d7c-99a4-d1fdc252834a"
-    Publisher="CN=mac"
+    Name="a709fbbc-a853-417c-982e-07d0e75f6993"
+    Publisher="CN=cizqu"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="0c197fc8-54c8-4d7c-99a4-d1fdc252834a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="a709fbbc-a853-417c-982e-07d0e75f6993" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>hybrid_validator</DisplayName>
-    <PublisherDisplayName>mac</PublisherDisplayName>
+    <PublisherDisplayName>cizqu</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
